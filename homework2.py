@@ -1,0 +1,8 @@
+age = int(input())
+mom_age = int(input())
+dad_age = int(input())
+sibling_age = int(input())
+print(age + 5)
+print(mom_age + 5)
+print(dad_age + 5)
+print(sibling_age + 5)
